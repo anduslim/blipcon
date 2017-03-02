@@ -1,5 +1,5 @@
-## IS439 Beacon Hands-on Session One 
 
+# Blipcon
 #### Objective: To demonstrate beacons ranging
 
 This application uses a npm package, https://github.com/sandeepmistry/node-eddystone-beacon-scanner, to demonstrate scanning of BLE Eddystone packets.
