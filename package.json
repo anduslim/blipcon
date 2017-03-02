@@ -1,0 +1,28 @@
+{
+  "name": "blipcon",
+  "version": "1.0.0",
+  "description": "An simple beacon applicaion for logging purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anduslim/blipcon.git"
+  },
+  "keywords": [
+    "ey",
+    "beacon"
+  ],
+  "author": "Andus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anduslim/blipcon/issues"
+  },
+  "homepage": "https://github.com/anduslim/blipcon#readme",
+  "dependencies": {
+    "eddystone-beacon-scanner": "^3.0.0",
+    "jsonfile": "^2.4.0"
+  }
+}
