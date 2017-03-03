@@ -23,6 +23,7 @@
   "homepage": "https://github.com/anduslim/blipcon#readme",
   "dependencies": {
     "eddystone-beacon-scanner": "^3.0.0",
-    "jsonfile": "^2.4.0"
+    "jsonfile": "^2.4.0",
+    "bunyan": "^1.8.5"
   }
 }
